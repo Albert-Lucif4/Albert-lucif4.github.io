@@ -6,16 +6,16 @@ about: true
 
 #### 我
 
-男，职业熬夜秃头选拔赛环球形象大使，资深便利店甜品品鉴师。
+王永辉，男，职业熬夜秃头选拔赛环球形象大使，资深便利店甜品品鉴师。
 
 #### 技术
 
-C/C++,Javascript,Python
+C/C++
 
 #### 工作
 
 
-+ ***2019.09 - 2023.06:*** study in [SJZU](http://www.sjzu.edu.cn/ "沈阳建筑大学")
++ ***2020.09 - 2024.06:*** study in [SJZU](http://www.sjzu.edu.cn/ "沈阳建筑大学")
 
 #### Credo
 
@@ -29,8 +29,8 @@ C/C++,Javascript,Python
 
 + [github/Albert](https://github.com/Albert-Lucif4)
 + [email/Albert](https://www.albert_pang@126.com)
-+ QQ: 411068512
-+ WeChat: speedmachine-
++ QQ: 2992671611
++ WeChat: XXXXXXXX
 
 #### avater
 
