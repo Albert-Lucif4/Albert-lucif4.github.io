@@ -27,7 +27,7 @@ C/C++，ROS，python
 #### 联系
 
 + [github/Albert](https://github.com/Albert-Lucif4)
-+ email：jo2e.pang@gmail.com
++ email: jo2e.pang@gmail.com
 + QQ: 411068512
 + WeChat: joe_pang_renning
 
