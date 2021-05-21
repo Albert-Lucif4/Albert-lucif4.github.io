@@ -6,16 +6,15 @@ about: true
 
 #### 我
 
-王永辉，男，职业熬夜秃头选拔赛环球形象大使，资深便利店甜品品鉴师。
+庞人宁，男，职业熬夜秃头选拔赛环球形象大使，资深便利店甜品品鉴师。
 
 #### 技术
 
-C/C++
+C/C++，ROS，python
 
 #### 工作
 
-
-+ ***2020.09 - 2024.06:*** study in [SJZU](http://www.sjzu.edu.cn/ "沈阳建筑大学")
++ ***2019.09 - 2022.06:*** study in [SJZU](http://www.sjzu.edu.cn/ "沈阳建筑大学")
 
 #### Credo
 
@@ -28,9 +27,9 @@ C/C++
 #### 联系
 
 + [github/Albert](https://github.com/Albert-Lucif4)
-+ [email/Albert](https://www.albert_pang@126.com)
-+ QQ: 2992671611
-+ WeChat: XXXXXXXX
++ email：jo2e.pang@gmail.com
++ QQ: 411068512
++ WeChat: joe_pang_renning
 
 #### avater
 
