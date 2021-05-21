@@ -6,12 +6,12 @@ rouge: true
 safe: true
 
 # presonal config
-title: likebeta's Blog
+title: NEON's Blog
 feed: /atom.xml
 comments: disqus
 
 author:
-  name: likebeta
+  name: NEON
   nickname: likebeta
   email: ixxoo.me@gmail.com
   gmail: ixxoo.me@gmail.com
