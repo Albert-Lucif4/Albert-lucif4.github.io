@@ -12,9 +12,7 @@ about: true
 
 C/C++，ROS，python
 
-#### 工作
 
-+ ***2019.09 - 2022.06:*** study in [SJZU](http://www.sjzu.edu.cn/ "沈阳建筑大学")
 
 #### Credo
 
@@ -27,7 +25,7 @@ C/C++，ROS，python
 #### 联系
 
 + [github/Albert](https://github.com/Albert-Lucif4)
-+ QQ: 411068512
+
 
 #### avater
 
